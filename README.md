@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaerfayyad
-- 👀 I’m currently working at CYSTACH
+- 👀 I’m currently working at CYSTACK
 - 🌱 I’m currently learning ...LARAVEL & NODE.js
 - 📫 How to reach me ...+970595840807
 
